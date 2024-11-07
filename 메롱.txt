@@ -1,2 +1,16 @@
+<<<<<<< HEAD
 :p
 apapapafdafdskfjds;fjdsal;kfdsfdkdkdkdkdk
+=======
+메롱메롱
+메롱
+:p
+메롱
+메롱메롱
+메롱메롱메롱
+메롱메롱메롱메롱
+메롱메롱메롱메롱메롱
+메롱메롱메롱메롱메롱메롱
+메롱메롱메롱메롱메롱메롱메롱
+>>>>>>> d98ad31bed55396df29c3975ff66ff0c76be674b
+fdsfdsafdsds
